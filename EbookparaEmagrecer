@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Ebook Receitas para Emagrecer</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; background: #fff; color: #333; }
+    header { background: #111; color: white; padding: 20px; text-align: center; }
+    .container { padding: 20px; max-width: 800px; margin: auto; }
+    .cta { background: #28a745; color: white; padding: 15px; text-align: center; border-radius: 5px; margin: 20px 0; font-size: 20px; text-decoration: none; display: block; }
+    .depoimentos { background: #f9f9f9; padding: 20px; border-left: 5px solid #28a745; margin: 10px 0; }
+    img { max-width: 100%; border-radius: 10px; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Receitas Gostosas para Emagrecer</h1>
+  <p>Transforme seu corpo com pratos simples e deliciosos!</p>
+</header>
+
+<div class="container">
+  <img src="CAPA_DO_EBOOK_AQUI.jpg" alt="Capa do Ebook">
+
+  <h2>Para quem é esse ebook?</h2>
+  <p>Mulheres que querem perder peso com saúde, sem passar fome e com receitas práticas no dia a dia.</p>
+
+  <h2>O que você vai encontrar:</h2>
+  <ul>
+    <li>10 receitas deliciosas e leves</li>
+    <li>Modo de preparo simples</li>
+    <li>Dicas de alimentação saudável</li>
+  </ul>
+
+  <a class="cta" href="LINK_DE_PAGAMENTO">Quero meu ebook agora!</a>
+
+  <h2>Depoimentos</h2>
+  <div class="depoimentos">
+    <p>"Comecei a seguir essas receitas e já perdi 3kg em 2 semanas. Estou amando!" <br>– Juliana, 29 anos</p>
+  </div>
+  <div class="depoimentos">
+    <p>"Nunca pensei que emagrecer pudesse ser tão gostoso." <br>– Ana Paula, 34 anos</p>
+  </div>
+
+  <h2>Garantia</h2>
+  <p>Se você não gostar do ebook, tem 7 dias para pedir seu dinheiro de volta. Sem burocracia!</p>
+
+  <a class="cta" href="LINK_DE_PAGAMENTO">Comprar agora por R$19,90</a>
+</div>
+
+</body>
+</html>
