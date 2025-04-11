@@ -1,0 +1,95 @@
+<!DOCTYPE html><html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Receitas para Emagrecer</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #fff;
+      color: #333;
+      line-height: 1.6;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+      padding: 20px;
+    }
+    h1, h2, h3 {
+      color: #111;
+    }
+    .image {
+      text-align: center;
+      margin: 20px 0;
+    }
+    .image img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 12px;
+    }
+    .button {
+      display: block;
+      width: fit-content;
+      margin: 30px auto;
+      padding: 15px 30px;
+      background-color: #28a745;
+      color: white;
+      text-decoration: none;
+      border-radius: 8px;
+      font-weight: bold;
+      font-size: 18px;
+    }
+    .testimonial {
+      background: #f9f9f9;
+      padding: 15px;
+      border-left: 5px solid #28a745;
+      margin: 20px 0;
+      border-radius: 8px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Receitas para Emagrecer Sem Sofrimento</h1>
+    <p><strong>Descubra receitas simples, gostosas e que realmente ajudam no emagrecimento.</strong></p>
+    <p>Chega de dieta sem graça! Este eBook foi criado especialmente para <strong>mulheres que querem perder peso</strong>, com receitas saudáveis, práticas e deliciosas que se encaixam no seu dia a dia.</p><h2>Veja o que você vai encontrar:</h2>
+<ul>
+  <li><strong>10 receitas testadas</strong> que unem sabor e nutrição</li>
+  <li>Café da manhã, almoço, jantar e lanchinhos inteligentes</li>
+  <li>Ingredientes fáceis de achar</li>
+  <li>Modo de preparo simples e rápido</li>
+  <li>Tudo com foco no emagrecimento saudável</li>
+</ul>
+
+<h2>Visual do eBook:</h2>
+<div class="image">
+  <img src="file_000000008e7461f6b0d11404e907c4bf_conversation_id=67f85137-6524-8002-90d1-7638f6c345d3&message_id=dfa36a05-dfa0-491c-bcf3-c00c67c4118a.jpg" alt="Capa do eBook">
+</div>
+
+<h2>Depoimentos de quem já está amando:</h2>
+<div class="testimonial">
+  <p><strong>“Simplesmente amei!</strong> As receitas são leves e muito gostosas. Em duas semanas, perdi 2kg sem sentir fome.”<br><em>— Carla M., 34 anos</em></p>
+</div>
+<div class="testimonial">
+  <p><strong>“Me surpreendi!</strong> Achei que seria mais um eBook genérico, mas as receitas realmente funcionam e são muito práticas.”<br><em>— Juliana R., 29 anos</em></p>
+</div>
+<div class="testimonial">
+  <p><strong>“Uso todo dia!</strong> Faço o omelete de claras no café da manhã e me sinto muito mais leve. Valeu cada centavo.”<br><em>— Lívia S., 41 anos</em></p>
+</div>
+
+<h2>Por que esse eBook é diferente?</h2>
+<ul>
+  <li>Nada de cortar tudo ou viver de salada</li>
+  <li>Receitas pensadas para o seu dia a dia</li>
+  <li>Você vai emagrecer comendo bem e se sentindo bem</li>
+</ul>
+
+<h2>Garanta já o seu:</h2>
+<p>Comece hoje mesmo a sua jornada de emagrecimento com sabor e praticidade.</p>
+<a class="button" href="#">COMPRAR AGORA NA KIRVANO</a>
+
+  </div>
+</body>
+</html>
